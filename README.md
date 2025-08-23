@@ -4,17 +4,6 @@
 
 [![Statut vérifié](https://img.shields.io/badge/status-verified-brightgreen)](https://github.com/yourusername/CFX-Bypass) 
 
-## ⚡ Technologie de base
-```mermaid
-graph LR
-A[Client FiveM] --> B[Couche adhésive]
-B --> C[Serveur d'authentification]
-sous-graphe CFX-Bypass
-D[Filtre réseau] --> E[Bloquer les transmissions HWID]
-D --> F[Modifier la négociation ROS]
-fin
-A --> D
-```
 
 https://user-images.githubusercontent.com/94861415/149637151-cccf9bbc-be1d-4287-9bb1-375e6efdb87b.mp4
 
