@@ -3,7 +3,6 @@
 *Solution de filtrage réseau avancée pour contourner les interdictions matérielles FiveM*
 
 [![Statut vérifié](https://img.shields.io/badge/status-verified-brightgreen)](https://github.com/yourusername/CFX-Bypass) 
-[![Discord](https://img.shields.io/discord/your-invite-code?logo=discord)](https://discord.gg/t8WMq5JKaK)
 
 ## ⚡ Technologie de base
 ```mermaid
